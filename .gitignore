@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+carbonwise.db
+test_carbonwise.db
+.env
+node_modules/
+dist/
+coverage/
+.vite/
+*.log
+*.tmp

@@ -1,0 +1,26 @@
+[
+  {
+    "category": "transportation",
+    "activity_type": "car",
+    "quantity": 15,
+    "unit": "km",
+    "activity_date": "2026-06-11",
+    "notes": "Office commute"
+  },
+  {
+    "category": "electricity",
+    "activity_type": "electricity",
+    "quantity": 8,
+    "unit": "kWh",
+    "activity_date": "2026-06-11",
+    "notes": "Home usage"
+  },
+  {
+    "category": "food",
+    "activity_type": "vegetarian",
+    "quantity": 2,
+    "unit": "meals",
+    "activity_date": "2026-06-11",
+    "notes": "Lunch and dinner"
+  }
+]
